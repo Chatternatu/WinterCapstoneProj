@@ -72,7 +72,7 @@ show tasks;
 alter task Episode_of_Care_ingestion_Task suspend;
 
 DESCRIBE TASK Episode_of_care_ingestion_Task;
-
+show tasks;
 
 
 
